@@ -92,7 +92,7 @@ app.dicon、またはapp.diconからincludeされているdiconに、次の設�
 
     ↓追加する
     <component class="net.jp.saf.sastruts.actionfilter.FilterContainer">
-    </components>
+    </component>
 
 使い方
 ------
